@@ -1,0 +1,45 @@
+Created first django Application
+
+1. Create Directory where you will store your project
+
+2. Created virtual env in the directory I wanted to make a project using command
+C:\Users\L00157124\AppData\Local\Programs\Python\Python38\python -m venv my_vir_env
+
+3. Activate your vir environment
+C:\Users\L00157124\github_codes\portfolio\my_vir_env>Scripts\activate.bat
+OR
+source Scripts/activate
+
+4. Install Django in the vir env path
+(my_vir_env) C:\Users\L00157124\github_codes\portfolio\my_vir_env>pip install django
+or on gitbash
+Scripts/python.exe -m pip install django
+ 
+
+5. Create project
+(my_vir_env) C:\Users\L00157124\github_codes\portfolio\my_vir_env>django-admin startproject personal_portfolio
+
+
+Next onwards it was done in bash, it could have done from start in bash. IT is possible that paths or commands are not picled autamtically
+when typing initials.
+
+
+L00157124@PR2468-AT MINGW64 ~/github_codes/portfolio (main)
+$ mv personal_portfolio/manage.py ./
+
+L00157124@PR2468-AT MINGW64 ~/github_codes/portfolio (main)
+$ mv personal_portfolio/personal_portfolio/* personal_portfolio
+
+L00157124@PR2468-AT MINGW64 ~/github_codes/portfolio (main)
+$ rm -r personal_portfolio/personal_portfolio/
+
+To run this on a server
+L00157124@PR2468-AT MINGW64 ~/github_codes/portfolio (master)
+$ my_vir_env/Scripts/python manage.py runserver
+
+
+
+Create a hello world appusing jupyter notebook by making necessary amendments and then install the modules required 
+
+
+
