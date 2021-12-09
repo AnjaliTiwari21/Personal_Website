@@ -8,6 +8,7 @@ The purpose of the project was to create a user-friendly portfolio/blog website.
 Frond-End: HTML5, CSS | Backend: Django React, JavaScript
 
 <h3>Results: </h3>
+
 ![output1](https://user-images.githubusercontent.com/33175569/145483493-7648705e-aa26-437b-a84e-f3c7fd36f3a4.png)
 
 ![image](https://user-images.githubusercontent.com/33175569/145483669-078a014e-06f9-42e5-ac50-d4316ad21089.png)
@@ -19,6 +20,7 @@ Frond-End: HTML5, CSS | Backend: Django React, JavaScript
 ![image](https://user-images.githubusercontent.com/33175569/145483888-c5db42a2-c7b1-4705-9b03-a44d89b5f02d.png)
 
 <h4> Old Changes</h4>
+
 ![output2](https://user-images.githubusercontent.com/33175569/145483507-28f5b81c-ddc9-4ec5-b31a-917f865c10fd.png)
 
 ![output3](https://user-images.githubusercontent.com/33175569/145483477-52c71fdd-f697-466a-bc59-ce0c61ad7277.png)
